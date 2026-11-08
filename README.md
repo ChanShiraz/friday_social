@@ -1,6 +1,6 @@
 # Friday Social
 
-A Flutter location-aware event calendar that displays local events alongside daily weather forecasts.
+A Flutter location-aware event calendar that displays local events alongside daily weather forecasts. Events are created and published to Firebase Cloud Firestore from an admin app (`fs_admin`), and this client app fetches and syncs them in real-time.
 
 ## Features
 
@@ -25,7 +25,7 @@ Open-Meteo provides daily forecast data up to 16 days ahead. Because forecasts f
 
 - **Flutter & Dart**
 - **GetX** for state management and navigation
-- **Cloud Firestore** for events and atomic RSVP transactions
+- **Cloud Firestore** for real-time events and atomic RSVP transactions
 - **SharedPreferences** for saving user attendance locally
 - **Geolocator & Geocoding** for GPS location and distance calculation
 - **Open-Meteo API** for daily forecasts
