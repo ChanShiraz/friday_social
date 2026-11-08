@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713993743774",
+    "project_id": "fs-admin-b04d6",
+    "storage_bucket": "fs-admin-b04d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713993743774:android:54a1bbda2232d5a0b37a8f",
+        "android_client_info": {
+          "package_name": "com.example.fs_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrsi6meyTzTbUnZrqj4z5vySCqHBwAMF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713993743774:android:54a1bbda2232d5a0b37a8f",
+        "android_client_info": {
+          "package_name": "com.example.friday_social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrsi6meyTzTbUnZrqj4z5vySCqHBwAMF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
